@@ -22,13 +22,6 @@
   .cabecalho {
     flex-direction: column;
   }
-
-  .botao-whats {
-    top: 20px;
-    right: 20px;
-    /* width: 45px;
-    height: 45px; */
-  }
 }
 
 @media(max-width: 425px) {
